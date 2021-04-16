@@ -128,7 +128,7 @@ class snake:
             if collision > 1:
                 self.alive = False
                 self.lscore.set("Crashed! Score: {}".format(str(self.score)))
-                #print("Crashed")  
+                #print("lost")
         
         
             #self.frame.coords(self.rectangles[0],50,50,200,200)#(self.rectangles[0],0,self.ss[1]*-1)
