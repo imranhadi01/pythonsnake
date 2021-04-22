@@ -1,6 +1,7 @@
 # Python-Snake-game
-Snake Game Python Tkinter
+Snake Game in Python  
 
 Simple Snake Game
-Tkinter
+
+using Tkinter
 
