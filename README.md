@@ -3,5 +3,4 @@ Snake Game in Python
 
 Simple Snake Game
 
-using Tkinter
 
