@@ -166,4 +166,4 @@ class snake:
 
 
 snake = snake(framesize=250,sinc=1)
-
+#end
